@@ -1,0 +1,21 @@
+Conclusion
+In this project, I explored the relationship between GDP and Life Expectancy across multiple countries using Python, Pandas, Matplotlib, and Seaborn.
+
+Key Learnings
+Learned how to prepare and clean data for analysis (handling column names, missing values, and summary checks).
+Applied visualization techniques (line plots, scatter plots, regression lines) to uncover country-wise and overall trends.
+Used correlation analysis to measure the statistical relationship between GDP and life expectancy.
+
+Results vs. Expectations
+It was expected that wealthier nations (higher GDP) would have higher life expectancy, which the data partially confirmed.
+The correlation value (~0.34) showed a moderate positive relationship, not as strong as anticipated. This indicates that while GDP plays a role, it is not the sole determinant of life expectancy.
+
+Key Findings
+Moderate positive correlation between GDP and life expectancy: Higher GDP generally corresponds with higher life expectancy, but exceptions exist.
+Country-specific variations: Some nations maintain relatively high life expectancy despite lower GDP, likely due to effective healthcare systems and social policies.
+Time trends: Most countries show improvements in life expectancy over time, though the pace of GDP growth varies significantly.
+
+Takeaways
+GDP is a useful proxy for development, but it is not the only driver of health outcomes.
+Factors such as healthcare quality, education, nutrition, and inequality significantly influence life expectancy beyond economic wealth.
+A holistic approach is needed to understand and improve public health outcomes, not just economic growth.
